@@ -1,6 +1,10 @@
-body {
-	  background-image: url("http://cityhomecollective.com/wp-content/uploads/2012/05/Screen-shot-2012-05-10-at-11.22.16-AM.png");
-
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display+SC:400,900,400italic,700);
+#splash{
+	background: url("../images/hands.tool.jpg") no-repeat top center scroll;
+	background-size: cover;
+	padding: 200px 0;
+	color: white;
+	text-align: center;
 }
 
 h1, p {
@@ -8,5 +12,6 @@ h1, p {
 
 }
 #Slogan {
+	font-family: 'Playfair Display SC', serif;
 	font-style: italic;
 }
