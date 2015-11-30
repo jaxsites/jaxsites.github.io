@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display+SC:400,900,400italic,700);
+#splash{
+	background: url("../images/hands.tool.jpg") no-repeat top center scroll;
+	background-size: cover;
+	padding: 200px 0;
+	color: white;
+	text-align: center;
+}
+
+h1, p {
+	color: #41494b ; 
+
+}
+#Slogan {
+	font-family: 'Playfair Display SC', serif;
+	font-style: italic;
+}
